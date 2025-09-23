@@ -31,8 +31,8 @@ artifacts/
 
 # ASP.NET Core
 wwwroot/dist/
-# wwwroot/lib/
-# appsettings.Development.json
+wwwroot/lib/
+appsettings.Development.json
 appsettings.Local.json
 secrets.json
 
@@ -87,7 +87,7 @@ _ReSharper*/
 *.DotSettings.user
 
 # Ignore environment files
-# .env
+.env
 .env.*
 
 # Ignore global.json user settings
